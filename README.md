@@ -1,35 +1,19 @@
 # Instructions  
 
-# Practice Problem 2.1
+For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.
 
-1. The variable _num_ holds an integer from user input  Write a conditional statement that does the following:
 
-- If num is even (divisible by 2), print "__ is even"
-- If num is odd, print "__ is odd"
-
-Examples:
+# Example input
 
 ```
-In: 23
-23 is odd
-```
-```
-In: 36
-36 is even
+In: 3
 ```
 
-2. The variable _name_ holds a String from user input.  Write a conditional statement that does the following:
-
-- If name is equal to "Kalisz", print "teacher"
-- For any other input, print "student"
-
-Examples:
+# Example output
 
 ```
-In: Kalisz
-teacher
+1
+12
+123
 ```
-```
-In: Faa
-student
-```
+
